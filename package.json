@@ -1,0 +1,12 @@
+{
+  "name": "BOT",
+  "version": "0.1.0",
+  "description": "mohAA bot",
+  "main": "main.js",
+  "repository": "https://github.com/Zenithao/BOT.git",
+  "author": "Zenithao <adrien.le.pober@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
